@@ -1,0 +1,58 @@
+header 
+{
+    background: yellowgreen;
+    color: #fff;
+    padding: 1px;
+    text-align: center;
+}
+nav{background-color:yellowgreen;}
+nav ul
+{
+    list-style: none;
+    padding: 0;
+}
+nav ul li 
+{
+    display: inline;
+    margin: 0 15px;
+}
+nav ul li a 
+{
+    color: #fff;
+    text-decoration: none;
+}
+a:hover 
+{
+    background-color: #111111;
+
+}
+#About 
+{
+    background-color: aqua;
+    padding: 2px;
+
+}
+.image 
+{
+    
+    padding: 80px;
+    margin: 1px;
+}
+
+#services 
+{
+    background-color: darkcyan;
+    
+}
+
+#contacts
+{
+    background-color: antiquewhite;
+    font-weight: 100;
+
+}
+h1, h2 
+{
+    color: rebeccapurple;
+
+}
